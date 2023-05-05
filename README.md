@@ -4,7 +4,8 @@ Maker Media GmbH
 
 ***
 
-# Picaxe Snippets
-Tipps&amp;Tricks Picaxe Editor: Snippets aus Make 3/23 
+# Tipps&amp;Tricks: Picaxe Snippets
+
+Snippets aus Make 3/23 
 
 Das Verzeichnis in den im Artikel angegebenen Ordner kopieren.
